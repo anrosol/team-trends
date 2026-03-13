@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg style="color: white" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style>
+
+      circle, rect {
+
+        fill: black;
+
+      }
+
+      @media (prefers-color-scheme: dark) {
+
+        circle, rect { fill: white; }
+
+      }
+
+    </style>
+
+  </defs>
+
+  <!-- User 1 -->
+  <circle cx="40" cy="46" r="5" fill="currentColor"/>
+
+  <rect x="36" y="55" width="8" height="12" rx="2" fill="currentColor"/>
+
+  <!-- User 2 -->
+  <circle cx="60" cy="31" r="5" fill="currentColor"/>
+
+  <rect x="56" y="40" width="8" height="27" rx="2" fill="currentColor"/>
+
+  <!-- User 3 -->
+  <circle cx="80" cy="16" r="5" fill="currentColor"/>
+
+  <rect x="76" y="25" width="8" height="42" rx="2" fill="currentColor"/>
+
+</svg>

@@ -29,16 +29,16 @@ Team Trends is fully open source and built on a simple principle:
 
 <table>
   <tr>
-    <td align="center"><strong>Teams</strong><br><a href="docs/screenshots/teams-index.png"><img src="docs/screenshots/teams-index.png" width="320" alt="Teams list" /></a></td>
-    <td align="center"><strong>Create Team</strong><br><a href="docs/screenshots/teams-create.png"><img src="docs/screenshots/teams-create.png" width="320" alt="Create team" /></a></td>
+    <td align="center"><strong>Teams</strong><br><a href="screenshots/teams-index.png"><img src="screenshots/teams-index.png" width="320" alt="Teams list" /></a></td>
+    <td align="center"><strong>Create Team</strong><br><a href="screenshots/teams-create.png"><img src="screenshots/teams-create.png" width="320" alt="Create team" /></a></td>
   </tr>
   <tr>
-    <td align="center"><strong>Edit Team</strong><br><a href="docs/screenshots/teams-edit.png"><img src="docs/screenshots/teams-edit.png" width="320" alt="Edit team" /></a></td>
-    <td align="center"><strong>Registration</strong><br><a href="docs/screenshots/register.png"><img src="docs/screenshots/register.png" width="320" alt="Registration" /></a></td>
+    <td align="center"><strong>Edit Team</strong><br><a href="screenshots/teams-edit.png"><img src="screenshots/teams-edit.png" width="320" alt="Edit team" /></a></td>
+    <td align="center"><strong>Registration</strong><br><a href="screenshots/register.png"><img src="screenshots/register.png" width="320" alt="Registration" /></a></td>
   </tr>
   <tr>
-    <td align="center"><strong>Dashboard</strong><br><a href="docs/screenshots/dashboard-desktop.png"><img src="docs/screenshots/dashboard-desktop.png" width="320" alt="Dashboard" /></a></td>
-    <td align="center"><strong>Mobile Friendly</strong><br><a href="docs/screenshots/dashboard-mobile.png"><img src="docs/screenshots/dashboard-mobile.png" width="320" alt="Mobile dashboard" /></a></td>
+    <td align="center"><strong>Dashboard</strong><br><a href="screenshots/dashboard-desktop.png"><img src="screenshots/dashboard-desktop.png" width="320" alt="Dashboard" /></a></td>
+    <td align="center"><strong>Mobile Friendly</strong><br><a href="screenshots/dashboard-mobile.png"><img src="screenshots/dashboard-mobile.png" width="320" alt="Mobile dashboard" /></a></td>
   </tr>
 </table>
 
@@ -46,12 +46,12 @@ Team Trends is fully open source and built on a simple principle:
 
 <table>
   <tr>
-    <td align="center"><strong>Claim Passphrase</strong><br><a href="docs/screenshots/passphrase-claim.png"><img src="docs/screenshots/passphrase-claim.png" width="320" alt="Claim passphrase" /></a></td>
-    <td align="center"><strong>Passphrase Login</strong><br><a href="docs/screenshots/respondent-login.png"><img src="docs/screenshots/respondent-login.png" width="320" alt="Respondent login" /></a></td>
+    <td align="center"><strong>Claim Passphrase</strong><br><a href="screenshots/passphrase-claim.png"><img src="screenshots/passphrase-claim.png" width="320" alt="Claim passphrase" /></a></td>
+    <td align="center"><strong>Passphrase Login</strong><br><a href="screenshots/respondent-login.png"><img src="screenshots/respondent-login.png" width="320" alt="Respondent login" /></a></td>
   </tr>
   <tr>
-    <td align="center"><strong>Survey</strong><br><a href="docs/screenshots/respondent-survey.png"><img src="docs/screenshots/respondent-survey.png" width="320" alt="Survey" /></a></td>
-    <td align="center"><strong>Chart</strong><br><a href="docs/screenshots/respondent-chart.png"><img src="docs/screenshots/respondent-chart.png" width="320" alt="Chart" /></a></td>
+    <td align="center"><strong>Survey</strong><br><a href="screenshots/respondent-survey.png"><img src="screenshots/respondent-survey.png" width="320" alt="Survey" /></a></td>
+    <td align="center"><strong>Chart</strong><br><a href="screenshots/respondent-chart.png"><img src="screenshots/respondent-chart.png" width="320" alt="Chart" /></a></td>
   </tr>
 </table>
 

@@ -107,7 +107,7 @@ git checkout -b my-feature
 
 2. Make your changes.
 3. Ensure tests pass: `sail pest`
-4. Ensure code is formatted: `./vendor/bin/pint`
+4. Ensure code is formatted: `sail pint`
 5. Push your branch and open a pull request against `main`.
 
 Keep pull requests focused. One concern per PR makes review faster and history cleaner.
@@ -119,7 +119,7 @@ This project uses [Laravel Pint](https://laravel.com/docs/pint) for PHP formatti
 Run the formatter before committing:
 
 ```bash
-./vendor/bin/pint
+sail pint
 ```
 
 Pint is important - PRs with style violations will not be merged.

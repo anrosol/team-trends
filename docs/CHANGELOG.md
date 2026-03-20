@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Rate limit key in `HasBotProtection` now scoped per class (`static::class`) instead of per method (`__METHOD__`)
+
 ## [1.0.0] - 2026-03-13
 
 Initial public release of Team Trends — privacy-first team sentiment surveys using anonymous passphrases.

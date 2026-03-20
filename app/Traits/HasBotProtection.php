@@ -28,7 +28,7 @@ trait HasBotProtection
 
     protected function rateLimitKey(): string
     {
-        return __METHOD__.':'.request()->ip();
+        return static::class.':'.request()->ip();
     }
 
     protected function isRateLimited(int $maxAttempts = 5, int $decaySeconds = 300): bool
